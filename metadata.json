@@ -1,0 +1,5 @@
+{
+  "name": "Isometric Drawing BOM Extractor",
+  "description": "An intelligent tool that uses Gemini to analyze pipe isometric drawings, extract the Bill of Materials (BOM), and export it to an Excel file.",
+  "requestFramePermissions": []
+}
